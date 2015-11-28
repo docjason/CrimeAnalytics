@@ -8,3 +8,5 @@ and Seattle using the R language.
 
 The San Francisco data was filtered with following criteria:<br>
 category="Vehicle Theft", start=6/1/2014 and end=8/30/2014.
+
+Click on [RTest.ipynb](RTest.ipynb) file to view the rendered notebook.
