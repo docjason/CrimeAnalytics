@@ -2,8 +2,7 @@
 .Rhistory
 .Rapp.history
 
-# Example code in package build process
-*-Ex.R
+.ipynb_checkpoints
 
 # RStudio files
 .Rproj.user/
