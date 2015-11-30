@@ -12,4 +12,4 @@ category="Vehicle Theft", start=6/1/2014 and end=8/31/2014.
 The Seattle data was filtered with following criteria:<br>
 Summarized.Offense.Description == "VEHICLE THEFT", start=6/1/2014 and end=8/31/2014.
 
-Click on [RTest.ipynb](RTest.ipynb) file to view the rendered notebook.
+Click on [VehicleTheft.ipynb](VehicleTheft.ipynb) file to view the rendered notebook.
