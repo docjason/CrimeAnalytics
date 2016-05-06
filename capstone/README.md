@@ -9,5 +9,7 @@ The data sources include 4 data sets:
 
 * detroit-blight-violations.csv : Each record is a blight violation incident.
 * detroit-demolition-permits.tsv: Each record represents a permit for a demolition.
-* detroit-311.csv: Each record represents a 311 call, typically a complaint
+* detroit-311.csv: Each record represents a 311 call, typically a complaint.
 * detroit-crime.csv: Each record represents a criminial incident.
+
+Up-to-date data can be downloaded or accessed via API from http://data.detroitmi.gov
