@@ -15,4 +15,4 @@ The data sources include 4 data sets:
 Up-to-date data can be downloaded or accessed via API from http://data.detroitmi.gov
 
 Here is a timeline of the four data sets spanning 2005 - 2015.
-[[https://github.com/docjason/DataAnalytics/master/capstone/timeline.png|alt=timeline]]
+![Timeline](timeline.png)
